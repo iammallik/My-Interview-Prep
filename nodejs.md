@@ -3,6 +3,6 @@ How does [Node.js handle](https://stackoverflow.com/questions/34855352/how-in-ge
 
 [Event loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
 
-* A [closure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) is the combination of a function and the lexical environment within which that function was declared.  
+A [closure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) is the combination of a function and the lexical environment within which that function was declared.  
 
 
