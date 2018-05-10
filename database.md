@@ -7,5 +7,6 @@
 
 Normalization is used for mainly two purposes,
 
-...Eliminating reduntant(useless) data.
-...Ensuring data dependencies make sense i.e data is logically stored.
+ ...Eliminating reduntant(useless) data.
+
+ ...Ensuring data dependencies make sense i.e data is logically stored.
