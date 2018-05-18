@@ -10,3 +10,5 @@
 [GoDS1](https://github.com/emirpasic/gods) [GoDS2](https://github.com/Workiva/go-datastructures)
 
 [Gopher reading list](https://github.com/enocom/gopher-reading-list)
+
+[Golang book](https://www.golang-book.com/)
