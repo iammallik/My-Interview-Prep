@@ -1,10 +1,10 @@
 ## OOP principles
 
-*S* Single Responsibility <br/>
-*O* Open-Closed principle <br/>
-*L* Liskov substitution Principle <br/>
-*I* Interface segregation principle <br/>
-*D* Dependency inversion principle <br/>
+**S** Single Responsibility <br/>
+**O** Open-Closed principle <br/>
+**L** Liskov substitution Principle <br/>
+**I** Interface segregation principle <br/>
+**D** Dependency inversion principle <br/>
 
 ### Patterns
 
